@@ -135,9 +135,9 @@ html, body {
 .popular-heading{
     margin-top: 150px;
 }
-.popular-products-card{
+.popular-products-card .card{
     align-items: center;
-    
+    margin-left: 10px;
 }
 .popular-products-card .card{
     width: 250px;
