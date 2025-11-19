@@ -135,8 +135,20 @@ html, body {
 .popular-heading{
     margin-top: 150px;
 }
+.popular-products-card{
+    align-items: center;
+    
+}
+.popular-products-card .card{
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
 .card{
     padding: 10px;
+    margin-left: 10px;
+    
 }
 .card-image img{
     width: 100%;
